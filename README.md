@@ -3,8 +3,8 @@
 **`Digital Craftsman (Content Creator | Developer | Student | Live enjoyer`**
 
 Hi, I am Johannes. I am from Germany, and I am currently 15 years old. I am a student at the Liborius 
-Gymnasium in Dessau-Rosslau. You can watch me learning coding and starting my career here on GitHub. I started when I was 12 years, and I am constantly pushing commits to GitHub. I am working on several Projects. My programming skills are growing with me. One Program will be better than the next one. 
-All my Projects are Open-Source under the LGPLv3 License. I also have a YouTube Channel [EchterAlsFake](https://www.youtube.com/channel/UC1cV2H2WKPYXb2AqBkyXj2Q), but I don't make many videos on it, although I plan to do so.
+Gymnasium in Dessau-Rosslau. You can watch me learning coding and starting my career here on GitHub. I started when I was 12 years old, and I am constantly pushing commits to GitHub. I am working on several Projects. My programming skills are growing with me. One Program will be better than the next one. 
+All my Projects are Open-Source under the GPL 3 License. I also have a YouTube Channel [EchterAlsFake](https://www.youtube.com/channel/UC1cV2H2WKPYXb2AqBkyXj2Q), but I don't make many videos on it, although I plan to do so.
 While coding, I also learn Cybersecurity, because I want to work as a Penetration Tester in my future. 
 
 
