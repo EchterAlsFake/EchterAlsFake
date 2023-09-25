@@ -1,6 +1,6 @@
 # EchterAlsFake
 
-**`Digital Craftsman (Content Creator | Developer | Student | Live enjoyer`**
+**`Digital Craftsman (Content Creator | Developer | Student | Life enjoyer`**
 
 Hi, I am Johannes. I am from Germany, and I am currently 16 years old. I am a student at the Liborius 
 Gymnasium in Dessau-Rosslau. You can watch me learning coding and starting my career here on GitHub. I started when I was 12 years old, and I am constantly pushing commits to GitHub. I am working on several Projects. My programming skills are growing with me. One Program will be better than the next one. 
