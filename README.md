@@ -32,7 +32,7 @@ I usually answer a lot faster on Discord!
 <br>
 <br>
 
-[![Johannes Habel's GitHub stats](https://github-readme-stats.vercel.app/api?username=echteralsfake&show_icons=true&theme=Natemoo-re)](https://github.com/anuraghazra/github-readme-stats)
+[![Johannes Habel's GitHub stats](https://github-readme-stats.vercel.app/api?username=echteralsfake&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v3hgow0bdrxebfamqu43d65al&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=7300ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br>I suck at CSS and HTML, so all this Readme was copied from: [ForrestKnight](https://github.com/ForrestKnight)
