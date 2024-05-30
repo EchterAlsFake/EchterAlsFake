@@ -10,10 +10,20 @@ Apart from coding, I occasionally delve into Cybersecurity, expanding my knowled
 - Collaboration is key to success, and I'm always open to it. Let's create something amazing together! 🤝
 - Positivity over saltiness any day! If you've got an issue, just open it up. We're all here to learn and grow. 😄
 - Stand with Ukraine! 🇺🇦
+- FUCK AFD
 
 ### 📬 Reach Out to Me:
 - **Discord:** echteralsfake (EchterAlsFake#7164) **[PREFERRED]**
 - **E-Mail:** EchterAlsFake@proton.me
+
+### Security:
+
+> [!WARNING]
+> ALL Commits since ( **30th of May 2024** ) will be signed using GPG Keys. *DO NOT* trust commits which aren't verified.
+> All Commits before this date can be considered valid, although they are not verified.
+> If you see an unverified commit after the above date please immediately reach out to me. Thanks :) 
+> <br>
+> <br>This does NOT apply to the **PHUB** repository!
 
 [![Johannes Habel's GitHub stats](https://github-readme-stats.vercel.app/api?username=echteralsfake&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
