@@ -25,6 +25,10 @@ Apart from coding, I occasionally delve into Cybersecurity, expanding my knowled
 > <br>
 > <br>This does NOT apply to the **PHUB** repository!
 
+> [!NOTE]
+> Every compiled package since 9th of June 2024 will be signed using my [PGP Key](https://github.com/EchterAlsFake/EchterAlsFake/blob/main/PGP_Key.txt) and every compiled release asset
+> will be built using GitHub CI/CD actions, except for android packages.
+
 [![Johannes Habel's GitHub stats](https://github-readme-stats.vercel.app/api?username=echteralsfake&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎵 Let's Talk Music
