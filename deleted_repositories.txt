@@ -1,0 +1,19 @@
+Here's a list of deleted repositories:
+
+(Does not include private repositories)
+
+
+EchterAlsFake/wigle-extract
+
+Wigle Extract was my first GUI tool made in PyQt5. It was able to search CSV files from Wigle for insecure wifi networks
+based of on my personal wifi hacking experience.
+
+This project is removed, because I don't see a good use case and since wigle doesn't export WPS and or manufacturer
+information, the results are not very accurate.
+
+EchterAlsFake/SuperRun
+
+Super Run was supposed to be a 2D Game for a school project, but things went in a wrong direction and I don't want to
+further explain this mess.
+
+
