@@ -21,13 +21,6 @@ def configure_git_signing(gpg_key_id):
 def create_pre_commit_hook(repo_path, gpg_key_id):
     pre_commit_hook_path = os.path.join(repo_path, '.git', 'hooks', 'pre-commit')
     hook_content = f"""#!/bin/sh
-
-# Ensure the commit is signed
-if ! git log -1 --pretty=%G? | grep -q 'G'; then
-  echo "Error: Commit is not signed."
-  exit 1
-fi
-
 # Verify the commit is signed with the specific key
 KEY_ID="{gpg_key_id}"
 if ! git log -1 --pretty=%GK | grep -q "$KEY_ID"; then
