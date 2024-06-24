@@ -29,12 +29,12 @@ Apart from coding, I occasionally delve into Cybersecurity, expanding my knowled
 > Every compiled package since 9th of June 2024 will be signed using my [PGP Key](https://github.com/EchterAlsFake/EchterAlsFake/blob/main/PGP_Key.txt) and every compiled release asset
 > will be built using GitHub CI/CD actions, except for android packages. Automated releases of GitHub CI/CD won't be signed, only "handmade" releases.
 
-[![Johannes Habel's GitHub stats](https://spotify-github-profile.kittinanx.com/api?username=echteralsfake&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Johannes Habel's GitHub stats](https://github-readme-stats.vercel.app/api?username=echteralsfake&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎵 Let's Talk Music
 I'm a big fan of music, and here's a snapshot of my favorite artists and songs according to Spotify and me. Music is the rhythm to code by! 🎶
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v3hgow0bdrxebfamqu43d65al&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=7300ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=v3hgow0bdrxebfamqu43d65al&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=7300ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 #### 🎤 Favorite Artists (Spotify's Choice):
 - [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv?si=8412153299d7406e)
