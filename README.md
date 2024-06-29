@@ -16,19 +16,6 @@ Apart from coding, I occasionally delve into Cybersecurity, expanding my knowled
 - **Discord:** echteralsfake (EchterAlsFake#7164) **[PREFERRED]**
 - **E-Mail:** EchterAlsFake@proton.me
 
-### Security:
-
-> [!WARNING]
-> ALL Commits since ( **30th of May 2024** ) will be signed using GPG Keys. *DO NOT* trust commits which aren't verified.
-> All Commits before this date can be considered valid, although they are not verified.
-> If you see an unverified commit after the above date please immediately reach out to me. Thanks :) 
-> <br>
-> <br>This does NOT apply to the **PHUB** repository!
-
-> [!NOTE]
-> Every compiled package since 9th of June 2024 will be signed using my [PGP Key](https://github.com/EchterAlsFake/EchterAlsFake/blob/main/PGP_Key.txt) and every compiled release asset
-> will be built using GitHub CI/CD actions, except for android packages. Automated releases of GitHub CI/CD won't be signed, only "handmade" releases.
-
 [![Johannes Habel's GitHub stats](https://github-readme-stats.vercel.app/api?username=echteralsfake&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎵 Let's Talk Music
