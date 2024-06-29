@@ -21,7 +21,7 @@ Apart from coding, I occasionally delve into Cybersecurity, expanding my knowled
 ## 🎵 Let's Talk Music
 I'm a big fan of music, and here's a snapshot of my favorite artists and songs according to Spotify and me. Music is the rhythm to code by! 🎶
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v3hgow0bdrxebfamqu43d65al&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=7300ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=v3hgow0bdrxebfamqu43d65al&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=7300ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 #### 🎤 Favorite Artists (Spotify's Choice):
 - [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv?si=8412153299d7406e)
