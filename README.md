@@ -52,7 +52,6 @@ I am listening to all kind of genres. From UK-Drill to sweet japanese music, ger
 > <br> Thanks a lot to The Morpheus aka Cedric. He's the German IT Guru and I learned almost everything from his YouTube Videos!
 
 <img align="left" alt="Effect Energy" width="90px" style="padding-right:10px;" src="https://olivia3-images.maexware-kundencloud.de/out/pictures/generated/product/1/540_540_75/DV019_4025127020997_VOR.png" />
-<img align="left" alt="Effect Energy" width="40px" style="padding-right:10px;" src="https://web-assests.monsterenergy.com/mnst/3c55de7f-6466-4502-aca1-cd42fda95c5f.png" />
 <img align="left" alt="28 Black Energy" width="40px" style="padding-right:10px;" src="https://dosenmatrosen.imgbolt.de/media/47/0b/8b/1682596140/GL007377-1-1-28-Black-Sour-Yuzu-Holunderbl%C3%BCte.png" />
 <img align="left" alt="Git" width="90px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width=90px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
