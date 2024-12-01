@@ -20,7 +20,7 @@ Apart from coding, I occasionally delve into Cybersecurity, expanding my knowled
 - **E-Mail:** EchterAlsFake@proton.me
 
 [![Johannes Habel's GitHub stats](https://github-readme-stats.vercel.app/api?username=echteralsfake&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=EchterAlsFake&color=blueviolet) (Since 1.12.2024)
+<br>![](https://komarev.com/ghpvc/?username=EchterAlsFake&color=blueviolet) (Since 1.12.2024)
 
 
 ## 🎵 About my music taste
