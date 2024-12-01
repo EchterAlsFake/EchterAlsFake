@@ -1,8 +1,10 @@
-# 🌟 EchterAlsFake 🌟
+# EchterAlsFake / Johannes
 
-**`🛠️ Digital Craftsman (Content Creator | Developer | Student | Life Enjoyer) 🎓`**
+**`Digital Craftsman | Content Creator | Developer | Student | Life Enjoyer | Caffeine Junky `**
 
-👋 Hey there! I'm Johannes, a 17-year-old student living in Germany. My coding journey began at 12, and ever since, I've been avidly pushing commits and working on various projects. 🚀 My passion lies in developing graphical user interfaces and supporting APIs, with all my projects being open-source under the (L)GPL License. 🌐 Although I'm not frequently active on my YouTube Channel [EchterAlsFake](https://www.youtube.com/channel/UC1cV2H2WKPYXb2AqBkyXj2Q), I'm planning to ramp up my content creation soon!
+👋 Hey there! I'm Johannes, a 17-year-old student living in Germany. My coding journey began at 12, and ever since, I've been constantly (more or less) pushing commits and working on various projects, although not on this account. 
+My passion lies in developing graphical user interfaces with Python and web-scraping APIs, with all my projects being open-source under the (L)GPL License. 🌐 Although I'm not frequently active on my YouTube Channel [EchterAlsFake](https://www.youtube.com/channel/UC1cV2H2WKPYXb2AqBkyXj2Q), 
+I'm planning to create videos, when I finally have the time. I use Arch Linux (btw) as my daily system together with [Hyprland](https://github.com/hyprwm/Hyprland)
 
 Apart from coding, I occasionally delve into Cybersecurity, expanding my knowledge and skills. 🛡️
 
@@ -18,10 +20,14 @@ Apart from coding, I occasionally delve into Cybersecurity, expanding my knowled
 - **E-Mail:** EchterAlsFake@proton.me
 
 [![Johannes Habel's GitHub stats](https://github-readme-stats.vercel.app/api?username=echteralsfake&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=EchterAlsFake&color=blueviolet) (Since 1.12.2024)
 
-## 🎵 Let's Talk Music
-I'm a big fan of music, and here's a snapshot of my favorite artists and songs according to Spotify and me. Music is the rhythm to code by! 🎶
-I am listening to all kind of genres. From UK-Drill to sweet japanese music, german rap, Hip hop, russian hardbass, literally everything :)
+
+## 🎵 About my music taste
+I'm a big fan of music, and here's a snapshot of my favorite artists and songs, according to Spotify and me. Music is the rhythm to code by!
+I am listening to all kinds of genres. From UK-Drill to sweet japanese music, german rap, Hip hop, russian hardbass, literally everything :)
+
+I have a public Spotify playlist. It contains all songs I somehow like. You can find it [HERE](https://open.spotify.com/playlist/7ARTV1gC37vL4h5MzERuJ8?si=3075fce468bb4c15)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=v3hgow0bdrxebfamqu43d65al&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=7300ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
@@ -43,8 +49,31 @@ I am listening to all kind of genres. From UK-Drill to sweet japanese music, ger
 - [Vremya i Steklo - Дим](https://www.youtube.com/watch?v=NJPXs7J7JyY&pp=ygUXZGltIGRpbSB2cmVteWEgaSBzdGVrbG8%3D)
 - [Kalafina - Love come down](https://open.spotify.com/track/34Wrt2CB9O8g6lJu8nv37x?si=62ccac8b95e84745)
 
-(Last updated on: 6h of September 2024)
+**Top 9 tracks (Updated monthly):**
+<br>Nessaja (Scooter) | Спалахи (Positiff) | Ми більше не друзі (Dorofeeva) | How Much Is The Fish? (Scooter)
+<br>Спекотно (Dorofeeva) | BLOOM LOVE (3ntry) | Somebody Like U (Alan Walker) | Kamaz (DJ Blyatman) |
+Cyka Blyat (DJ Blyatman)
 
+(Last updated on: first of December 2024)
+
+# Other things about me
+- I drink way too much caffeine (seriously)
+- I love Russian people (but hate the government)
+- I am the guy who wears a T-Shirt when it's 2° winter
+- I want to work at ProtonVPN (some day)
+- I am an internet pirate (rutracker.org => ❤️)
+- I am always happy
+- I hate Apple and everyone who uses their products / systems.
+
+Q: Why don't you learn C, C++ or any other low-level language?
+<br>A: Because I have a life.
+
+Q: Do you use ChatGPT or any other LLM for coding?
+<br>A: Yes (way too much)
+
+Q: What are your most important quotes?
+<br>A: `"if paying isn't owning, piracy isn't stealing"`
+<br>A: `"the quieter you become, the more you are able to hear"`
 ### 🧰 Languages and Tools
 
 > [!NOTE]
