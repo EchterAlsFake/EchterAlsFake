@@ -19,6 +19,16 @@ Apart from coding, I occasionally delve into Cybersecurity, expanding my knowled
 - **Discord:** echteralsfake (EchterAlsFake#7164) **[PREFERRED]**
 - **E-Mail:** EchterAlsFake@proton.me
 
+# Donations / Support
+Although I do all my work entirely for free, in order to have some more motivation and
+to support my daily caffeine consumption, you can donate me money through
+
+- PayPal: `https://paypal.me/EchterAlsFake`
+- Monero (XMR): `46xL2reuanxZgFxXBBaoagiEJK9c7bL7aiwKNR15neyX2wUsX2QVzkeRMVG2Cro44qLUNYvsP1BQa12KPbNat2ML41nyEeq`
+
+**I appreciate every donation!, also if it's one cent**
+
+
 [![Johannes Habel's GitHub stats](https://github-readme-stats.vercel.app/api?username=echteralsfake&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br>![](https://komarev.com/ghpvc/?username=EchterAlsFake&color=blueviolet) (Since 1.12.2024)
 
