@@ -34,6 +34,8 @@ to support my daily caffeine consumption, you can donate me money through
 
 
 ## 🎵 About my music taste
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=echteralsfake)
+
 I'm a big fan of music, and here's a snapshot of my favorite artists and song. Music is the most important thing for me.
 I am listening to all kinds of genres. From UK-Drill to sweet japanese music, german rap, Hip hop, russian hardbass, phonk, literally everything :)
 
