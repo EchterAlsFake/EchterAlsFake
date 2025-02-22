@@ -24,7 +24,7 @@ Although I do all my work entirely for free, in order to have some more motivati
 to support my daily caffeine consumption, you can donate me money through
 
 - PayPal: `https://paypal.me/EchterAlsFake`
-- Monero (XMR): `46xL2reuanxZgFxXBBaoagiEJK9c7bL7aiwKNR15neyX2wUsX2QVzkeRMVG2Cro44qLUNYvsP1BQa12KPbNat2ML41nyEeq`
+- Monero (XMR): `42XwGZYbSxpMvhn9eeP4DwMwZV91tQgAm3UQr6Zwb2wzBf5HcuZCHrsVxa4aV2jhP4gLHsWWELxSoNjfnkt4rMfDDwXy9jR`
 
 **I appreciate every donation!, also if it's one cent**
 
