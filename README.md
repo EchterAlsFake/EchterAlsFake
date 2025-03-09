@@ -19,6 +19,9 @@ Apart from coding, I occasionally delve into Cybersecurity, expanding my knowled
 - **Discord:** echteralsfake (EchterAlsFake#7164) **[PREFERRED]**
 - **E-Mail:** EchterAlsFake@proton.me
 
+> [!NOTE]
+You can hire me as a developer for less money than current industry standards. If you are interested, contact me using my E-Mail.
+
 # Donations / Support
 Although I do all my work entirely for free, in order to have some more motivation and
 to support my daily caffeine consumption, you can donate me money through
@@ -34,63 +37,51 @@ to support my daily caffeine consumption, you can donate me money through
 
 
 ## 🎵 About my music taste
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=echteralsfake)
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=EchterAlsFake&count=10&loved=true&maxage=60)
 
-I'm a big fan of music, and here's a snapshot of my favorite artists and song. Music is the most important thing for me.
-I am listening to all kinds of genres. From UK-Drill to sweet japanese music, german rap, Hip hop, russian hardbass, phonk, literally everything :)
+I am a big fan of music. The music video of `Alone` from `Alan Walker` inspired me to start hacking
+and programming when I was in primary school. I listen to almost all genres and all languages. 
+I have a big lossless / hi-res music collection that I am listening to every day. You can find my stats
+on my [Last FM Profile](https://www.last.fm/user/EchterAlsFake). I am listening with the Sennheiser HD560S headphones.
 
-I don't use any streaming service for music (anymore), but instead I use VLC media player to play my Hi-Res
-media collection (100 GB lol). 
+Btw feel free to send me your favourite songs to my E-Mail or Discord. I always like to try out
+new music, so if you like a song, there's a high chance that I'll like it too :)
 
-If you are interested in the specific songs, you can find the VlC Playlist file in this repository :)
-
-### Favourite Artists
-- [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv?si=8412153299d7406e)
-- [Kalafina](https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy?si=8a8e904aea1d4c8d)
-- [Vremya i Steklo](https://open.spotify.com/artist/6DdeqvIfYu3sH02gdavOu2?si=850f473f6ff24573)
-- [Nadya DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM?si=5fc3f0a929394a3d)
-- [(G)I-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx?si=0adf2bf141214af6)
-- [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN?si=c2408bf722674721)
-- [IU (Lee Ji-Eun)](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU?si=da75b652bd8a4420)
-- [Serebro](https://open.spotify.com/artist/1Ulwacsns9Me7dz4OVwkiQ?si=f1d78037d3d34e3e)
+### Favourite Artists (sorted)
+- [DOROFEEVA](https://www.last.fm/music/DOROFEEVA)
+- [Мы](https://www.last.fm/music/%D0%9C%D1%8B)
+- [Serebro](https://www.last.fm/music/SEREBRO)
+- [Vremya i Steklo](https://www.last.fm/music/Vremya+i+Steklo)
+- [Kalafina](https://www.last.fm/music/Kalafina)
+- [Alan Walker](https://www.last.fm/music/Alan+Walker)
+- [LiSA (Risa Oribe)](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv?si=8412153299d7406e)
 
 ###  Favorite Songs
 - [Vremya i Steklo - На Стиле](https://www.youtube.com/watch?v=tJ7JcweIOZ4)
 - [Jaiden Stylez - Alive](https://www.youtube.com/watch?v=xzjSMKNeX7Y&pp=ygUTamFpZGVuIHN0eWxlZCBhbGl2ZQ%3D%3D)
 - [LiSA - Empty MERMAiD](https://www.youtube.com/watch?v=mvHSGl2kJ6s&pp=ygUSbGlTQSBlbXB0eSBtZXJtYWlk)
 - [Juice WRLD - Righteous](https://www.youtube.com/watch?v=ZengOKCUBHo&pp=ygUJcmlnaHRlb3Vz)
-- [Vremya i Steklo - Дим](https://www.youtube.com/watch?v=NJPXs7J7JyY&pp=ygUXZGltIGRpbSB2cmVteWEgaSBzdGVrbG8%3D)
-- [Kalafina - Love come down](https://open.spotify.com/track/34Wrt2CB9O8g6lJu8nv37x?si=62ccac8b95e84745)
+- [Kalafina - Love come down](https://www.youtube.com/watch?v=WUy4wf52vmw)
+- [Мы - TikTok](https://www.youtube.com/watch?v=wFbZ0jtFUUA)
 
+# Languages and Tools
+- Python
+- HTML, CSS
+- Arch Linux
+- Hyprland
+- Monster Energy
+- Effect Energy
+- Git
+- Pycharm Professional
+- Android
 
 # Other things about me
 - I drink way too much caffeine (seriously)
-- I love Russian people (but hate the government)
 - I am the guy who wears a T-Shirt when it's 2° winter
-- I am an internet pirate (P2P is the best thing humans have ever managed to do)
+- I am an internet pirate (If paying isn't owning, piracy isn't stealing)
 - I am always happy
-- I hate Apple and everyone who uses their products / systems.
-
-Q: Why don't you learn C, C++ or any other low-level language?
-<br>A: Because I have a life.
-
-Q: Do you use ChatGPT or any other LLM for coding?
-<br>A: Yes (way too much)
-
-Q: What are your most important quotes?
-<br>A: `"if paying isn't owning, piracy isn't stealing"`
-<br>A: `"the quieter you become, the more you are able to hear"`
-
-Q: What IDE do you use?
-<br>A: I use PyCharm Professional
-
-Q: What does "EchterAlsFake" mean?
-<br>A: Nothing. If you translate it to English, it would be something as "more real than fake" however, I came across this
-name by waking up in the night and thinking: "Yes, that's my new username." Don't search for a sense there, it has none lol
-
-Q: Can I add you on Discord and just write with you about stupid shit?
-<br>A: Sure :) 
-
+- I hate Apple (Android / Linux just better, change my mind)
+- I do video editing sometimes (Davinci Resolve)
 
 # Why I am sometimes inactive
 As you can see from the commits, there are weeks when I literally code 8 hours straight, but then there are weeks or 
@@ -100,33 +91,14 @@ learning I need to be very active in the lessons, and when I arrive home, I just
 Please remember that I do that Open-Source and in my free time. While I do my best to keep all projects functional, I cannot
 guarantee for it. If I have one of those "very active" phases, I will set a 🔥 emoji on GitHub to indicate that.
 
-
 # My Setup
 CPU: `AMD Ryzen 7 4750G` (Please don't buy this trash CPU, seriously)
 <br>GPU: `Nvidia RTX 2070 Super OC`
 <br>RAM: `32GB 3200 Mhz`
-<br>Storage: `~512 GB - 2TB` (depends on which drives I have connected)
-<br>Keyboard: `Razer Blackwidow V3 mini Hyprspeed (Yellow switches)`
+<br>Keyboard: `Razer Blackwidow V3 mini Hyperspeed (Yellow switches)`
 <br>Mouse: `Logitech G502 Lightspeed`
 <br>Monitors `Gigabyte M27Q (170Hz)`; `Some Asus monitor idk (60Hz)`
 
+I also have a Laptop which is the `MSI Stealth 15M A11UEK`
 
-
-
-
-### 🧰 Languages and Tools
-
-> [!NOTE]
-> Thanks to Forrest Night for the inspiration to this Readme. Check out his [YouTube Channel](https://www.youtube.com/@fknight)
-> <br> Thanks a lot to The Morpheus aka Cedric. He's the German IT Guru and I learned almost everything from his YouTube Videos!
-
-<img align="left" alt="Effect Energy" width="90px" style="padding-right:10px;" src="https://olivia3-images.maexware-kundencloud.de/out/pictures/generated/product/1/540_540_75/DV019_4025127020997_VOR.png" />
-<img align="left" alt="28 Black Energy" width="40px" style="padding-right:10px;" src="https://dosenmatrosen.imgbolt.de/media/47/0b/8b/1682596140/GL007377-1-1-28-Black-Sour-Yuzu-Holunderbl%C3%BCte.png" />
-<img align="left" alt="Git" width="90px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width=90px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Python" width="90px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Bash" width="90px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="GitHub" width="90x" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Qt" width="90px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
-<img align="left" alt="PyCharm" width="90" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" />
-<img align="left" alt="Android" width="150px" style="padding-right:10px;" src="https://www.googlewatchblog.de/wp-content/uploads/android-neues-logo-3d.jpg" />
+### This README was inspired by [ForrestKnight](https://github.com/ForrestKnight)
