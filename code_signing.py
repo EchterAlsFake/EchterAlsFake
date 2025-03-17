@@ -17,7 +17,7 @@ def sign_files_in_folder(folder_path, gpg_key_id, passphrase):
     # Progress reporting
     for file in tqdm.tqdm(files, desc="Signing files", unit="file"):
         with open(file, 'rb') as f:
-            signed_data = gpg.sign_file(f, keyid=gpg_key_id, passphrase=passphrase, output=str(file) + '.sig')
+            signed_data = gpg.sign_file(f, keyid=gpg_key_id, passphrase=passphrase, output=str(file) + '.sig', detach=True)
             if not signed_data:
                 print(f"Failed to sign {file}")
 
