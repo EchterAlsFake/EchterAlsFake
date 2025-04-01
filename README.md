@@ -14,6 +14,8 @@ Apart from coding, I occasionally delve into Cybersecurity, expanding my knowled
 - Stand with Ukraine! 🇺🇦
 - FUCK AFD (AFD is a political party in Germany that basically consists of Nazis)
 - EU > USA (Donald Trump and Elon Musk are the biggest Memes in history lmao)
+- Free Jack Ma
+- The chinese government is trash
 
 ### 📬 Reach Out to Me:
 - **Discord:** echteralsfake (EchterAlsFake#7164) **[PREFERRED]**
