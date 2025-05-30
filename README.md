@@ -8,7 +8,26 @@ I'm planning to create videos, when I finally have the time (actually: No). I us
 
 Apart from coding, I occasionally delve into Cybersecurity, expanding my knowledge and skills. 🛡️
 
-**What I Believe:**
+
+### Security / Signing / Verification
+> [!IMPORTANT]
+> In times when cyber-security attacks and social engineering are becoming a thread more and more, I decide
+> to prevent that by code-signing all commits and releases.
+
+All commits will either be signed with `1E04D0A679846BC0` (old) or with: `C7A4E066B3022FBA` (new).
+If you see a commit that is unverified and newer than January 1st 2025, please immediately reach out to me.
+All release assets (the torrent version) will have everything signed with a .sig file, so that you always check 
+that nothing has been altered. This ensures the security for all of us. Please use AI if you have any questions
+on how to use it.
+
+You can find the public keys here in this repository.
+
+### Security Flaws in my repos
+If you find a security vulnerability in one of my projects, please immediately report it using my official E-Mail.
+(See below). I take such things very serious.
+
+
+### **What I Believe:**
 - Collaboration is key to success, and I'm always open to it. Let's create something amazing together! 🤝
 - Positivity over saltiness any day! If you've got an issue, just open it up. We're all here to learn and grow. 😄
 - Stand with Ukraine! 🇺🇦
@@ -30,6 +49,7 @@ to support my daily caffeine consumption, you can donate me money through
 
 - PayPal: `https://paypal.me/EchterAlsFake`
 - Monero (XMR): `42XwGZYbSxpMvhn9eeP4DwMwZV91tQgAm3UQr6Zwb2wzBf5HcuZCHrsVxa4aV2jhP4gLHsWWELxSoNjfnkt4rMfDDwXy9jR`
+- Ko-Fi: `https://ko-fi.com/EchterAlsFake`
 
 **I appreciate every donation!, also if it's one cent**
 
@@ -96,11 +116,11 @@ guarantee for it. If I have one of those "very active" phases, I will set a 🔥
 # My Setup
 CPU: `AMD Ryzen 7 4750G` (Please don't buy this trash CPU, seriously)
 <br>GPU: `Nvidia RTX 2070 Super OC`
-<br>RAM: `32GB 3200 Mhz`
-<br>Keyboard: `Razer Blackwidow V3 mini Hyperspeed (Yellow switches)`
+<br>RAM: `G-Skill AEGIS 32GB 3200 Mhz`
+<br>Keyboard: `ASUS Falchion RX Low Profile (red switches)`
 <br>Mouse: `Logitech G502 Lightspeed`
 <br>Monitors `Gigabyte M27Q (170Hz)`; `Some Asus monitor idk (60Hz)`
 
-I also have a Laptop which is the `MSI Stealth 15M A11UEK`
+I also have a Laptop which is the `MSI Stealth 15M A11UEK` (broken currently lmao)
 
 ### This README was inspired by [ForrestKnight](https://github.com/ForrestKnight)
