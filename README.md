@@ -11,7 +11,7 @@ Apart from coding, I occasionally delve into Cybersecurity, expanding my knowled
 
 ### Security / Signing / Verification
 > [!IMPORTANT]
-> In times when cyber-security attacks and social engineering are becoming a thread more and more, I decide
+> In times where cyber-security attacks and social engineering are becoming more and more a threat, I decided
 > to prevent that by code-signing all commits and releases.
 
 All commits will either be signed with `1E04D0A679846BC0` (old) or with: `C7A4E066B3022FBA` (new).
