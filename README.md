@@ -2,7 +2,7 @@
 
 **`Digital Craftsman | Content Creator | Developer | Student | Life Enjoyer | Caffeine Junky `**
 
-👋 Hey there! I'm Johannes, a 17-year-old student living in Germany. My coding journey began at 12, and ever since, I've been constantly (more or less) pushing commits and working on various projects, although not on this account. 
+👋 Hey there! I'm Johannes, an 18-year-old student living in Germany. My coding journey began at 12, and ever since, I've been constantly (more or less) pushing commits and working on various projects, although not on this account. 
 My passion lies in developing graphical user interfaces with Python and web-scraping APIs, with all my projects being open-source under the (L)GPL License. 🌐 Although I'm not frequently active on my YouTube Channel [EchterAlsFake](https://www.youtube.com/channel/UC1cV2H2WKPYXb2AqBkyXj2Q), 
 I'm planning to create videos, when I finally have the time (actually: No). I use Arch Linux (btw) as my daily system together with [Hyprland](https://github.com/hyprwm/Hyprland)
 
@@ -11,7 +11,7 @@ Apart from coding, I occasionally delve into Cybersecurity, expanding my knowled
 
 ### Security / Signing / Verification
 > [!IMPORTANT]
-> In times where cyber-security attacks and social engineering are becoming more and more a threat, I decided
+> In times when cyber-security attacks and social engineering are becoming more and more a threat, I decided
 > to prevent that by code-signing all commits and releases.
 
 All commits will either be signed with `1E04D0A679846BC0` (old) or with: `C7A4E066B3022FBA` (new).
@@ -41,11 +41,16 @@ If you find a security vulnerability in one of my projects, please immediately r
 - **E-Mail:** EchterAlsFake@proton.me
 
 > [!NOTE]
-You can hire me as a developer for less money than current industry standards. If you are interested, contact me using my E-Mail.
+> You can hire me as a developer for all kind of projects for a fixed 10€/hour. I can do anything
+> that doesn't involve math XD.
 
 # Donations / Support
 Although I do all my work entirely for free, in order to have some more motivation and
 to support my daily caffeine consumption, you can donate me money through
+
+Jokes aside, all money will be reinvested in long-term things that I really need.
+So not any consumables like cigarettes or any other shit. Your donation gives me a serious value!
+
 
 - PayPal: `https://paypal.me/EchterAlsFake`
 - Monero (XMR): `42XwGZYbSxpMvhn9eeP4DwMwZV91tQgAm3UQr6Zwb2wzBf5HcuZCHrsVxa4aV2jhP4gLHsWWELxSoNjfnkt4rMfDDwXy9jR`
@@ -121,6 +126,6 @@ CPU: `AMD Ryzen 7 4750G` (Please don't buy this trash CPU, seriously)
 <br>Mouse: `Logitech G502 Lightspeed`
 <br>Monitors `Gigabyte M27Q (170Hz)`; `Some Asus monitor idk (60Hz)`
 
-I also have a Laptop which is the `MSI Stealth 15M A11UEK` (broken currently lmao)
+I also have a Laptop which is the `MSI Stealth 15M A11UEK`
 
 ### This README was inspired by [ForrestKnight](https://github.com/ForrestKnight)
