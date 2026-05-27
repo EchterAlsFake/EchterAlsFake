@@ -8,19 +8,22 @@ I'm planning to create videos, when I finally have the time (actually: No). I us
 
 Apart from coding, I occasionally delve into Cybersecurity, expanding my knowledge and skills. 🛡️
 
-
 ### Security / Signing / Verification
 > [!IMPORTANT]
 > In times when cyber-security attacks and social engineering are becoming more and more a threat, I decided
 > to prevent that by code-signing all commits and releases.
 
-All commits will either be signed with `1E04D0A679846BC0` (old) or with: `C7A4E066B3022FBA` (new).
 If you see a commit that is unverified and newer than January 1st 2025, please immediately reach out to me.
 All release assets (the torrent version) will have everything signed with a .sig file, so that you always check 
 that nothing has been altered. This ensures the security for all of us. Please use AI if you have any questions
 on how to use it.
 
 You can find the public keys here in this repository.
+
+- Key V1: `1E04D0A679846BC0`
+- Key V2: `C7A4E066B3022FBA`
+- Key V3: `6AC58B8CA26D1C5F` (Current)
+
 
 ### Security Flaws in my repos
 If you find a security vulnerability in one of my projects, please immediately report it using my official E-Mail.
@@ -39,6 +42,7 @@ If you find a security vulnerability in one of my projects, please immediately r
 ### 📬 Reach Out to Me:
 - **Discord:** echteralsfake (EchterAlsFake#7164) **[PREFERRED]**
 - **E-Mail:** EchterAlsFake@proton.me
+- **E-Mail:** EchterAlsFakeBS@proton.me (Business related)
 
 > [!NOTE]
 > You can hire me as a developer for all kind of projects for a fixed 10€/hour. I can do anything
